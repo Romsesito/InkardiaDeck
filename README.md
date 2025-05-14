@@ -1,6 +1,7 @@
 # InkardiaDeck - Un Mod para Balatro
 
-<img src="https://github.com/user-attachments/assets/2b1d8a2d-e5d8-41fb-9c18-0f40712510df" alt="InkardiaDeck Logo" >
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/105876509/443524180-f4db9408-eb8e-4bfb-8c20-0b3913974cf7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250514%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250514T064033Z&X-Amz-Expires=300&X-Amz-Signature=e6899473d73ee57b9ea5e379598970257dc091c0a03de990f52dfbcf939f0c79&X-Amz-SignedHeaders=host" alt="InkardiaDeck Logo" >
+
 
 ¡Bienvenido al repositorio oficial de **InkardiaDeck**! 🃏✨
 
